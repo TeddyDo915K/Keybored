@@ -1,0 +1,31 @@
+IDB60 PCB (measurements done in centimeter)
+
+Length: 28.2cm/11.10236
+Width: 9.2cm/3.62205
+
+Middle of the USB port: 14.1 
+usb ports at: 13.5 to 14.1
+usb port length: 1cm + 0.2cm for printing
+usb c port height ~20mm
+
+prong screw hole diameter: 0.3cm => diameter 0.15cm
+
+prong width: 0.7cm
+
+Top prongs locations:
+1. prong 1: start at 0.4cm, ends at 1.1cm
+2. prong 2: start at 8, ends at 8.7
+3. prong 3: start at 19.4, ends at 20.1
+4. prong 4: start at 27, ends at 27.7
+
+Bottom prongs locations:
+1. prong 1: start at 0.3 to 1.1
+2. prong 2: start at 7.9 to 8.6
+3. prong 3: start at 19.3 to 20
+4. prong 4: start at 26.9 to 27.6
+
+CASE:
+30x11x~5
+typing angle 5 degree
+
+ 
